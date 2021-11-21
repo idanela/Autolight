@@ -1,0 +1,18 @@
+.headerBox {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1cm;
+}
+.tabRoot {
+    justify-content: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.scroller {
+    flex-grow: 0;
+}
+
+.rootGrid {
+    flex-grow: 1;
+    justify-content: center;
+}
