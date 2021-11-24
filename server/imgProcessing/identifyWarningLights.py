@@ -147,7 +147,7 @@
 #                           'Server=autolight-db.cvpwxpqfprzu.us-east-1.rds.amazonaws.com;'
 #                           'Database=autoLightDb;'
 #                           'UID=admin;'
-#                           'PWD=autolight;'
+#                           'PWD=********;'
 #                           'Trusted_Connection=no;')
 #
 #     cursor = conn.cursor()
