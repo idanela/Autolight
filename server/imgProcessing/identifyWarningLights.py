@@ -595,8 +595,8 @@ def getHighestScores(results, numOfResults):
 
 def uploadS3(imgName):
     session = boto3.Session(
-        aws_access_key_id='AKIA4CNNTWIMRPFWAEJX',
-        aws_secret_access_key='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',
+        aws_access_key_id='************',
+        aws_secret_access_key='***********************************************',
     )
     s3 = session.resource('s3')
 
