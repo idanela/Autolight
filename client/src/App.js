@@ -5,17 +5,6 @@ import MenuScreen from './screens/MenuScreen/MenuScreen';
 
 
 function App() {
-
-/*    const userSignin = useSelector(state => state.userSignin);
-    const {userInfo} = userSignin;
-
-    const openMenu = () => {
-        document.querySelector(".sidebar").classList.add("open");
-    }
-    const closeMenu = () => {
-        document.querySelector(".sidebar").classList.remove("open")
-    }*/
-
     return (
         <BrowserRouter>
             <main className="main">
